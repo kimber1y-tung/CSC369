@@ -1,0 +1,13 @@
+
+A4/out/src/ext2fsal_rm.o
+A4/out/src/ext2fsal_mkdir.o
+A4/out/src/ext2fsal_ln_sl.o
+A4/out/src/ext2fsal_ln_hl.o
+A4/out/src/ext2fsal_cp.o
+A4/out/src/ext2fsal.o
+A4/out/src/e2fs.o
+A4/out/bin/libext2fsal.so
+A4/out/src/libext2fsal.so
+A4/out/bin/libext2fsal.so
+A4/out/bin/libext2fsal.so
+A4/out/img/random_words.txt

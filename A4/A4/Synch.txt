@@ -1,0 +1,7 @@
+for this assignment we did not have enough time to add in synchronization details and 
+we did not want to mess up the code we have now since it works.
+but if we were to add in synchronization, we would do it similar to assignment 3 where
+in order to avoid race conditions, we would have queues for file system data structures, 
+such as the inode table, the inode and data bitmaps. Therefore if we were to add or remove 
+new entries concurrently in the same directory data blocks, we would have to wait for its 
+turn in the queue.

@@ -1,0 +1,3 @@
+/Users/kimberlytung/Desktop/group_0648/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/kimberlytung/Desktop/group_0648/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/kimberlytung/Desktop/group_0648/cmake-build-debug/CMakeFiles/group_0648.dir
