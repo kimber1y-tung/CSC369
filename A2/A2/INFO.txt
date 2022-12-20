@@ -1,0 +1,8 @@
+Jason Conte, contejas
+Wen Hua Tung, tungwen
+
+Discussion
+
+Starvation can happen when using this monitor, for example, when jobs are being submitted by users constantly, one admission queue could be stuck while other admission queues seize the resource locks.
+
+When implementing the functions for this assignment, we had problems dealing with circular list(indexes for it). After reading how circular list works, we had a better understanding of it and was able to fix bugs in the code connected with it.

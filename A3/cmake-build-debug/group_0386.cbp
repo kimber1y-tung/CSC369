@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="group_0386"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/kimberlytung/Desktop/group_0386/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/kimberlytung/Desktop/group_0386/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/kimberlytung/Desktop/group_0386/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/kimberlytung/Desktop/group_0386/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/kimberlytung/Desktop/group_0386/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/kimberlytung/Desktop/group_0386/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/kimberlytung/Desktop/group_0386/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/kimberlytung/Desktop/group_0386/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/kimberlytung/Desktop/group_0386/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/kimberlytung/Desktop/group_0386/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/kimberlytung/Desktop/group_0386/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/kimberlytung/Desktop/group_0386/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/kimberlytung/Desktop/group_0386/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/kimberlytung/Desktop/group_0386/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/kimberlytung/Desktop/group_0386/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="group_0386">
+				<Option output="/Users/kimberlytung/Desktop/group_0386/cmake-build-debug/group_0386" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/kimberlytung/Desktop/group_0386/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/kimberlytung/Desktop/group_0386/A3"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/kimberlytung/Desktop/group_0386/cmake-build-debug/Makefile&quot;  VERBOSE=1 group_0386"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/kimberlytung/Desktop/group_0386/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/kimberlytung/Desktop/group_0386/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/kimberlytung/Desktop/group_0386/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="group_0386/fast">
+				<Option output="/Users/kimberlytung/Desktop/group_0386/cmake-build-debug/group_0386" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/kimberlytung/Desktop/group_0386/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/kimberlytung/Desktop/group_0386/A3"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/kimberlytung/Desktop/group_0386/cmake-build-debug/Makefile&quot;  VERBOSE=1 group_0386/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/kimberlytung/Desktop/group_0386/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/kimberlytung/Desktop/group_0386/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/kimberlytung/Desktop/group_0386/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/kimberlytung/Desktop/group_0386/A3/arc.c">
+			<Option target="group_0386"/>
+		</Unit>
+		<Unit filename="/Users/kimberlytung/Desktop/group_0386/A3/clock.c">
+			<Option target="group_0386"/>
+		</Unit>
+		<Unit filename="/Users/kimberlytung/Desktop/group_0386/A3/fifo.c">
+			<Option target="group_0386"/>
+		</Unit>
+		<Unit filename="/Users/kimberlytung/Desktop/group_0386/A3/lru.c">
+			<Option target="group_0386"/>
+		</Unit>
+		<Unit filename="/Users/kimberlytung/Desktop/group_0386/A3/pagetable.c">
+			<Option target="group_0386"/>
+		</Unit>
+		<Unit filename="/Users/kimberlytung/Desktop/group_0386/A3/pagetable.h">
+			<Option target="group_0386"/>
+		</Unit>
+		<Unit filename="/Users/kimberlytung/Desktop/group_0386/A3/rand.c">
+			<Option target="group_0386"/>
+		</Unit>
+		<Unit filename="/Users/kimberlytung/Desktop/group_0386/A3/sim.c">
+			<Option target="group_0386"/>
+		</Unit>
+		<Unit filename="/Users/kimberlytung/Desktop/group_0386/A3/sim.h">
+			<Option target="group_0386"/>
+		</Unit>
+		<Unit filename="/Users/kimberlytung/Desktop/group_0386/A3/swap.c">
+			<Option target="group_0386"/>
+		</Unit>
+		<Unit filename="/Users/kimberlytung/Desktop/group_0386/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
